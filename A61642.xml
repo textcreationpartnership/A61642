@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Freedome. Or, The description of the excellent civill government of the island of Jersey published by James Stocall Esq; Collonel of a regiment of the trained bands of the said island, consisting of 1500 men. Under the government of the honorable Colonel Heane governour thereof, for the service of the Commonwealth of England.</title>
+            <author>Stocall, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61642</idno>
+            <idno type="STC">Wing S5691A</idno>
+            <idno type="STC">ESTC R222041</idno>
+            <idno type="EEBO-CITATION">99833279</idno>
+            <idno type="PROQUEST">99833279</idno>
+            <idno type="VID">37755</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37755)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Freedome. Or, The description of the excellent civill government of the island of Jersey published by James Stocall Esq; Collonel of a regiment of the trained bands of the said island, consisting of 1500 men. Under the government of the honorable Colonel Heane governour thereof, for the service of the Commonwealth of England.</title>
+                  <author>Stocall, James.</author>
+               </titleStmt>
+               <extent>[6], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Robert Ibbitson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jersey (Channel Islands) --  History --  Early works to 1800.</term>
+               <term>Jersey (Channel Islands) --  Politics and governemnt --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37755:1" rendition="simple:additions"/>
+            <p>Freedome. OR, The Deſcription of the Excellent Civill <hi>Government of the Iſland of</hi> JERSEY</p>
+            <p>PUBLISHED By <hi>James Stocall</hi> 
+               <abbr>Eſq</abbr> Collonel of a Re<g ref="char:EOLhyphen"/>giment of the Trained Bands of the ſaid Iſland, conſiſting of 1500 men. Under the Government of the Honorable Col<g ref="char:EOLhyphen"/>lonel <hi>Heane</hi> Governour thereof, for the ſervice of the Commonwealth of <hi>England.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Ibbitſon.</hi> 1652.</p>
+            <pb facs="tcp:37755:2"/>
+            <pb facs="tcp:37755:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37755:3"/>
+            <pb facs="tcp:37755:3"/>
+            <head>To the Right Honourable, Lieutenant Gen. <hi>Fleetwood.</hi>
+            </head>
+            <opener>
+               <salute>Noble Lieut. Generall,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Uch great multitudes of men are daily im<g ref="char:EOLhyphen"/>portuning you, with their implorations of Your favour and aſſiſtance, that I ſtill judge it more expedient, and leſſe trouble<g ref="char:EOLhyphen"/>ſome, to preſent mine in writing, to your Honours, to waite (as I deſire this deſcription of the Civill Government of <hi>Jerſey</hi> may doe) for your beſt opportunity of conſideration thereof. Truly Sir, now it hath pleaſed the Lord to bring me ſafe againe here, from the reduction of that Iſle, I have thought it a part of my duty, having been bold to promiſe it you heretofore; and having found you ſo cordiall to bring that to paſſe, ſo ready, diligent, and compaſſionate, to help our poore Country-men out of their eight yeares exile, and generally all the people of that place, out of a moſt Tyrannicall bondage; All which your Noble deeds are well knowne there. For your Heroicall Actions every where, for the Common-wealth, have made your care of Mercy, and Juſtice, ſo highly famous, that it begat, in the poore Iſlanders, ſtrong hopes of your media<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:37755:4"/>towards the Parliament, for the Patronization of their hitherto (ſince the Divine Common-wealth of <hi>Iſrael</hi>) un<g ref="char:EOLhyphen"/>paralleld Freedome.</p>
+            <p>
+               <hi>Michael Lempriere</hi> Eſquire, the Bailly of that Juriſdi<g ref="char:EOLhyphen"/>ction, did lately ſend an Accompt of the ſaid Government, to the Parliament, alſo particularly the ſame to the Coun<g ref="char:EOLhyphen"/>ſell of State and to my Lord Generall; but while he was intending one for your Honour, the ſad newes of the deceaſe, of your Noble, and moſt Chriſtianly vertuous Lady, did cauſe him to forbeare; judging it unfit to adde then trou<g ref="char:EOLhyphen"/>ble to your trouble by any importunity. I muſt acknow<g ref="char:EOLhyphen"/>ledge, the ſame conſideration hath made me ſo much back<g ref="char:EOLhyphen"/>ward from preſenting my ſelfe before you, ſince my arrivall; not any forgetfulneſſe of the reſpects I doe owe to your Ho<g ref="char:EOLhyphen"/>nour. It is true, you were at firſt in the Country; yet now, that I hope, the Lord hath been pleaſed to begin to ſtirre up againe, in your heart, the power of that holy Spirit called the Comforter, to moderate your juſt ſorrow, in a meaſure according to his will; and that the publique good of my Country calleth upon my Conſcience, I muſt infringe ſome<g ref="char:EOLhyphen"/>what the rules of Civility, and importune you with theſe Lines, which are abrupt, becauſe my particular Obligati<g ref="char:EOLhyphen"/>ons could not let me be free from ſadneſſe, when all honeſt people ſuffer a loſſe, whereof you ſuffer the immediate afflicti<g ref="char:EOLhyphen"/>on. In this Deſcription, which is not different from that ſent by the ſaid Bailly, but only in few things, which he, for brevi<g ref="char:EOLhyphen"/>tie ſake, omitted, and I have added; it being true, that the true deſcription of a thing muſt be like the ſame thing it ſelfe; you will ſee a great excellence of Government, in re<g ref="char:EOLhyphen"/>ſpect of all other Governments practiſed, ſince the Common<g ref="char:EOLhyphen"/>wealth of <hi>Iſrael.</hi>
+            </p>
+            <p>Firſt, becauſe the People doth freely uſe to chuſe, and e<g ref="char:EOLhyphen"/>lect all their Officers, except very few, which were ſome at the Kings, others at the Baillys denomination.</p>
+            <p>Secondly, Becauſe the Sufferers can procure the execu<g ref="char:EOLhyphen"/>tion of our Lawes againſt any one that wrongeth them, at ve<g ref="char:EOLhyphen"/>ry ſmall expences, and indeed, ordinarily for nothing; the Guilty being alwayes ſentenced to all the Charges, and Dam<g ref="char:EOLhyphen"/>mages he hath cauſed.</p>
+            <pb facs="tcp:37755:4"/>
+            <p>Thirdly, Becauſe the way and meanes to proſecute Juſtice in that Iſland is plaine, common, and eaſie, full of Huma<g ref="char:EOLhyphen"/>nity, Gravity, and Civility, and ſhort, without Circulati<g ref="char:EOLhyphen"/>ons from <hi>Pilate</hi> to <hi>Herodes,</hi> and from <hi>Herodes</hi> to <hi>Pilate</hi> back againe; All in the naturall Language of the Inhabitants nevertheleſſe very Majeſticall, conſequently terrible as much as poſſible to Evill-doers, and comfortable to the lovers of Righteouſneſſe; the true uſe of the ſword of Magi<g ref="char:EOLhyphen"/>ſtracy.</p>
+            <p>Fourthly, becauſe there is a ſufficiency of Officers to doe all Functions requiſite for the procuration, propagation, and preſervation of the publicke good, not onely in neceſſaries, but in contingencies alſo; and that ſo prudently, that every Pariſh, being divided into convenient Diviſions, hath in each at leaſt an Officer, which over-ſeeth it, and keepeth the wicked in awe ſo, that no Vagabond, or idle Fellow, can be lurking any where to commit vices, and not be taken notice of preſently, and prevented, or apprehended; the poore and the ſicke viſited conſtantly, and taken care of by due diſtributions from the Treaſure of the Pariſh, and o<g ref="char:EOLhyphen"/>therwiſe. By this meanes alſo, all Orders, and Ordinances of the Magiſtrate, Civill and Military, are ordinarily publiſhed, and made knowne to the people with much eaſe, and without charges to the State, at their very houſes; which may be done in few houres all over the Country; although there is uſed alſo a generall way of Proclamations at the Market place, in open Market time, and on Sundaies, im<g ref="char:EOLhyphen"/>mediately after Sermon, in their Parochiall Aſſemblies, ſo that in three houres all the people uſeth to be in a Body, un<g ref="char:EOLhyphen"/>der their Armes, for their defence. After notice given ſo orderly, none can plead cauſe of ignorance; Collections and Leavies of Men, or other things whatſoever are by this meanes preſently done, without charges to the State. A good diſtribution is neceſſary, to governe well.</p>
+            <p>Fifthly, Becauſe the Lawes uſed in the ſaid Government are very few, but ſufficient diſtinct, cleare, ſhort in Maximes, or Sentences, knowne of the very poore ſilly Women, moſt of them very excellent; Thoſe that are not ſo, may be abroga<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:37755:5"/>for future time, and better ones made in their roome.</p>
+            <p>Laſtly, No falſe Bargaines, Sales, or Cheating convey<g ref="char:EOLhyphen"/>ances can be made in that Government.</p>
+            <p>Pray read it, compare it with all others, and I am confi<g ref="char:EOLhyphen"/>dent, you will eſteeme it worthy the conſideration of every good Common-wealths-man; and pardon freely,</p>
+            <closer>
+               <salute>SIR, </salute> 
+               <signed>Your very much obliged, and ſincere humble Servant <hi>JAMES STOCALL.</hi>
+               </signed>
+               <dateline>London,
+<date>
+                     <hi>March, 1. 1651.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37755:5"/>
+            <head>THE Deſcription of the excellent Ci<g ref="char:EOLhyphen"/>vill Government of the Iſland of <hi>JERSEY.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Iſland of <hi>Jerſey</hi> is divided in twelve Pariſhes, every one of thoſe ſub-divi<g ref="char:EOLhyphen"/>ded into ſeverall Diviſions called Vingtaines.</p>
+            <p>In each Pariſh, there is a Conſta<g ref="char:EOLhyphen"/>ble, a Centurion which is as the Con<g ref="char:EOLhyphen"/>ſtables Deputy; as many Vingteniers, as there are Vingtaines, who are ſubordinate Officers to the Conſtables, to execute thoſe Warrants, which are ſent them, by him who receives them firſt, either from the Governor or Bailly, There are beſides thoſe, other Of<g ref="char:EOLhyphen"/>ficers called Sermentez, or Jurors to make up the num<g ref="char:EOLhyphen"/>ber of Twelve with the Vingteniers in each Pariſh. Thoſe Twelve with the Conſtable, make up a petty Jury, to indite, or free criminals, when they firſt preſent them in Court. The Conſtable and theſe Officers have power to ſearch out and ſeiſe all manner of Malefactors whatſo<g ref="char:EOLhyphen"/>ever, every one in his Pariſh, and preſent them to the Bail<g ref="char:EOLhyphen"/>ly, and Juſtices to receive condigne puniſhment.</p>
+            <p>There are alſo two Procurors or Atturneys of the pub<g ref="char:EOLhyphen"/>lick Revenue and Treaſure of each Pariſh, which are accomptable to the Conſtable and thoſe Officers, which have the diſpenſation of the ſame, as they repreſent the pariſh.</p>
+            <p>Beſides there it a Provoſt in every Pariſh, as the name
+<pb n="2" facs="tcp:37755:6"/>ſignifies Warner, ſo their Office is to Summon, or Warn any Parties, who have Suites in Law together, to appear before the Bailly and Juſtices, who decide thoſe diffe<g ref="char:EOLhyphen"/>rences. Thoſe Summons are in a very ſhort and pithy forme, either written by the parties themſelves, or any body elſe; Provided, that he that writes them, muſt ſub<g ref="char:EOLhyphen"/>ſcribe them. And the Provoſt warneth the parties, in many cauſes for nothing, in others, for a penny.</p>
+            <p>Moreover there is in every Vingtaine, one Sermenté Ju<g ref="char:EOLhyphen"/>ror, or ſworn man for the High-ways and common-paths, to ſee them duly repaired, and in order.</p>
+            <p>All theſe Parochiall Officers are elected and choſen by the Votes of all the Pariſhioners, great, and ſmal, poore, and rich; then preſented to the Bailly, who giveth them Oath to exerciſe their ſeverall Functions.</p>
+            <p>The whole Iſland is generally ruled by the great Court (ſo called in relation to inferior Courts, of which here<g ref="char:EOLhyphen"/>after mention ſhal be made) held in a fair <hi>Cobuë,</hi> or Court-Houſe erected for that purpoſe: The Aſſembly there con<g ref="char:EOLhyphen"/>ſiſts of the Bailly, Twelve Jurates or Juſtices, the Kings Procurator or Atturney (ſo called heretofore) the Kings Advocate or Solicitor heretofore; the Vicount, or She<g ref="char:EOLhyphen"/>riffe; the <hi>Greffier,</hi> or Clerk of the Court; the <hi>Denuntiator,</hi> or Under-Sheriffe; five or ſix Advocates, at the Ballys diſcretion, an <hi>Huiſſier</hi> or Door-keeper. The Bailly here<g ref="char:EOLhyphen"/>tofore was nominated by the King, and had his Patent under the Great Seale of <hi>England:</hi> He is the Head and Preſident of the Court, collects the voyces of the Jurates and pronounceth the Sentence, according to their plu<g ref="char:EOLhyphen"/>rality, but if equality, then he hath the caſting voyce.</p>
+            <p>The twelve Jurates, or Juſtices are choſen by the ſuffrages or voices generally of all the Iſlanders, without excepti<g ref="char:EOLhyphen"/>on, and ſworn in the Court by the Bailly. The Procurator, and Advocate were named by the King: their Offices was to plead for the Kings Rights, and to ſee all manner of crimes puniſhed: They might alſo plead betwixt party and party. The Vicount was alſo nominated by the
+<pb n="3" facs="tcp:37755:6"/>King, his Office was, to arreſt and impriſon Debtors, after Judgement of Execution given and never before, to ſeize goods, when he is ſo appointed to do, by the Court, and to ſell them at the Market place, on publick dayes to thoſe who wil give moſt, to be applyed for the payment of Creditors, who may redeem them fourteen daies after; He taketh Inventories of Orphans goods; and ſometimes ſelleth them at Out-cries, for their uſe and behoofe; he is Clerke of the Market, hath the care of all ſorts of Mea<g ref="char:EOLhyphen"/>ſures, for dry and liquid Wares; Hee lookes to the Wa<g ref="char:EOLhyphen"/>ter-Courſes of Rivolets and Brooks, with ſome Officers with him, that all might be in good order, for the bene<g ref="char:EOLhyphen"/>fit of the Inhabitants; He is alſo Crowner, and Cryer of the Court. The Denuntiator hath the like power in the Vicounts abſence, with many other cares conducing to the accommodation of the Iſlanders. The <hi>Greffier</hi> or Clerk of the Court doth inrole all the Sentences pro<g ref="char:EOLhyphen"/>nounced by the ſaid Bailly: And that <hi>ſedente curiâ,</hi> in ve<g ref="char:EOLhyphen"/>ry faire Regiſter-Books, of which he hath the keeping, as of all the ancient Records, Archives, Priviledges, Fran<g ref="char:EOLhyphen"/>chiſes, Liberties and Immunities heretofore granted, to the Inhabitants, by the late Kings and Queens of <hi>England,</hi> under the Bailly, who hath that care from Superiour Authority. The Advocates Offices are to plead for par<g ref="char:EOLhyphen"/>tyes, which they doe for very ſmall and eaſie Rates, <hi>viz,</hi> ſix pence, by reaſon that the people of all Sorts and Sexes and upon all manner of Pleas may, and doe plead their own Cauſes, and have as much audience as the Advocates themſelves.</p>
+            <p>There is alſo another Officer of high concernment, in the Iſland, called <hi>L' Enregiſtreur,</hi> or Regiſter, who doth Regiſter all, and all manners of Deeds, which paſſe un<g ref="char:EOLhyphen"/>der the common Seale of the Iſle, as partitions of Lands, or Wheat-Rents, either in Fee-Farme, or for ready mony, Letters of Atturney, Morgages, Bonds, <hi>&amp;c.</hi> for three pence each. All which, are written in a compendi<g ref="char:EOLhyphen"/>ous manner, without Equivocations, or Lawyers Quid<g ref="char:EOLhyphen"/>dities,
+<pb n="4" facs="tcp:37755:7"/>and paſſe all by Oath adminiſtred to the Parties, by the Bailly, in the preſence of one or more of the Jurates; neither to do or cauſe to be done any thing againſt their Demiſes, upon paine of perjury; all written in our natu<g ref="char:EOLhyphen"/>rall tongue; Neither are the Deeds Authentiques, unleſſe the Bailly and two Jurates, at leaſt, are ſigned in them, beſides the Seal. Of this Seal the Bailly is keeper, but it is ſealed in a Bag, by ſome of the Juſtices under their ſeals, and not opened, but in their preſence: The Impreſſe of it is three Lyons Paſſant, with an Inſcription bearing <hi>Sigillum Inſulae de Jerſey.</hi>
+            </p>
+            <p>The nomination of the Greffier, Denuntiator, Regi<g ref="char:EOLhyphen"/>ſter, Inferior Advocates, Huiſſier, belongeth to the Bail<g ref="char:EOLhyphen"/>ly.</p>
+            <p>The great Court is kept very ſolemne at their Aſſizes or opening of their Courts in the beginning of the Termes: The Governour being preſent to anſwer for thoſe Lordſhips, that owe their Compearance or appear<g ref="char:EOLhyphen"/>ing at the ſaid Aſſizes, whereof there is a good number: Likewiſe all the Juſtices and Officers of the Court, with the Provoſts, and other Lords of Mannors, which hold in Capite, and other Frank-Tenants, which are duly cal<g ref="char:EOLhyphen"/>led according to their Ranks, And Fines ſet upon thoſe which doe not appeare; And if they failed foure times together, their Lands were put in the Kings Poſſeſſi<g ref="char:EOLhyphen"/>on.</p>
+            <p>They keep three ſorts of Courts, (though with the ſame Judges, <hi>viz.</hi>) The Court of <hi>Heritage,</hi> the Court of <hi>Cattell,</hi> and the Court of <hi>Remedies,</hi> or the Court <hi>Extraordinary.</hi> In the firſt Court is treated of Inheritance, as partitions of Lands betweene Co-Heires, and in fine of all differences, which do ariſe for Lands, or any Rents that are for ever. The benefit of retyring of Inheritance ſold, is granted to the firſt of the kindred, that doth claim it within a year. In the ſecond, called the Court of <hi>Cattell,</hi> firſt of all, Crimi<g ref="char:EOLhyphen"/>nall Cauſes, which are determined definitively without Appeale (except thoſe of High Treaſon, the cogni<g ref="char:EOLhyphen"/>zance
+<pb n="5" facs="tcp:37755:7"/>of which, the King reſerved to himſelfe) but are judged with the greateſt Diſcretion and Fa<g ref="char:EOLhyphen"/>vour that can be imagined. For firſt a Malefactor be<g ref="char:EOLhyphen"/>ing brought before the Judges, by the Conſtable and his Sermentez, which make the petty Jury (before mentio<g ref="char:EOLhyphen"/>ned) if they have found the Malefactor ſeiſed of any Goods, or vehement ſuſpitions (after examination of Witneſſes in their preſence, they having the freedome to refuſe any of them, upon evidences of hatred, or malice) either of Theft, Murther, or Witchcraft; then their Ver<g ref="char:EOLhyphen"/>dict is, That they thinke in their Conſciences they are guilty of the Fact, which is called Indictment; where<g ref="char:EOLhyphen"/>upon the Parties ſo indict d are demanded, Whether they will be tried by the Bench, or the Country? by the Bench is meant the Bailly, and the twelve Juſtices, where<g ref="char:EOLhyphen"/>of there muſt be ſeven of them at leaſt of one opinion, to Condemne a man; by the Country is underſtood, an Aſſembly of twenty foure of the Accuſed's owne Pa<g ref="char:EOLhyphen"/>riſh, and neighbour Pariſhes, of ſufficient able men, full of integrity, of thoſe there muſt be twenty of an unani<g ref="char:EOLhyphen"/>mous voyce, to make the Party Guilty, and this is the great Inqueſt.</p>
+            <p>In the ſecond place in the ſame Court, called <hi>Cattell,</hi> is treated of Decrets, for the moſt part; (which is) That in caſe a man be over-burdened with Debts, and that his eſtate is not able to pay them; as ſoone as he is impriſoned for any of them, he is freed of all his Credi<g ref="char:EOLhyphen"/>tors, if he cometh to Court, and affirmeth upon Oath, That he hath not wherewithall to ſatisfie them, and leaveth them what inheritance he hath to ſtruggle a<g ref="char:EOLhyphen"/>mongſt them, who ſhall enjoy it? which is done very re<g ref="char:EOLhyphen"/>gularily; thoſe who have purchaſed, or lent their money, the laſt, are the looſers, and every man injoyeth accor<g ref="char:EOLhyphen"/>ding to the priority of his Purchaſe, &amp;c.</p>
+            <p>In the laſt Court, called, <hi>Extraordinary,</hi> is treated of Cauſes more triviall, which concern only Moveables, &amp;c. Of the Court of Heritage, the laſt part of the Court of
+<pb n="6" facs="tcp:37755:8"/>Cattell, and Extraordinary, Appeales might be made to the King and Counſell; For moveables, not for under the value of twenty pounds Sterling, but for matter of Inheritance, there is no limitation. Appeales muſt be made immediately after Sentence given, yet <hi>ſedente curiâ,</hi> and two ſufficient Sureties given within a ſennight for the proſecution of them within the time limited, which is; The ſaid Appeales muſt be entred in the Booke of Counſell Cauſes within three moneths, and proſecuted within one yeare; and in caſe the Appealant doe not re<g ref="char:EOLhyphen"/>verſe the Sentence, and procure an Order from the Coun<g ref="char:EOLhyphen"/>ſell of <hi>Mal Jugé, Bien Appellé,</hi> then he forfeits twenty Crownes to the Bailly.</p>
+            <p>There are likewiſe many inferiour Courts held in the Iſland, by Seneſchalls, or Stewards, called <hi>Baſſes Courts,</hi> which is to ſay, low Courts, in reſpect of the great and ſuperiour Courts; many of thoſe Lordſhips doe now be<g ref="char:EOLhyphen"/>long to the Common-wealth of <hi>England,</hi> others to ſome Gentlemen of the Iſle. Of theſe Stewards Courts Ap<g ref="char:EOLhyphen"/>peales might be made to the Bailly's Court.</p>
+            <p>Upon ſome extraordinary and Important occaſion, which might conduce for the good of the Inhabitants, an Aſſembly of the States was called, by the Governour, or Bailly, this Aſſembly conſiſted of the ſaid Governour, or his Lieutenant; the Bailey, or his Lieutenant; the twelve Jurats; the twelve Conſtables; who repreſented the Commons of the Country: and ſometimes the twelve Miniſters, who by their turbulency and brouilleries, have made themſelves unworthy of that Aſſembly, and there fore may be very fitly deſired, they may be left out, with the Biſhops.</p>
+            <p>Amongſt the many good and wholſome locall Cuſtoms Municipall Lawes, and others, whereof many are agree<g ref="char:EOLhyphen"/>ing with the Moſaicall; one is very remarkable, in the behalfe of the oppreſſed (viz.) <hi>Le clam de Haro;</hi> which is, That if any man, of what degree or quality ſoever pretends to be injured, or oppreſt, either by the greateſt
+<pb n="7" facs="tcp:37755:8"/>or loweſt of this Iſle, at the Acclamation three times of this word <hi>Haro,</hi> with a loud voyce (be it right, or wrong) the other party muſt ſurceaſe, though he were upon never ſuch urgent occaſions; whether he were at Cart, or Plough, felling, or lopping Trees, in a word, upon any occaſion; And he that is in fault of the Accu<g ref="char:EOLhyphen"/>ſer or Accuſed is fined in ten Livers <hi>Tournois.</hi> And if the Accuſed perſiſts notwithſtanding in his worke, or vio<g ref="char:EOLhyphen"/>lence, he is alſo fined in the like ſum, for his perſiſting. And likewiſe, if any man is within the hearing of this call, and doth not come to the aſſiſtance of the oppreſ<g ref="char:EOLhyphen"/>ſed, hee is put to an Arbitrary Fine; And this is try<g ref="char:EOLhyphen"/>ed at the Court of Cattell before-mentioned amongſt Crimes.</p>
+            <p>This is but a ſhort Epitome of our Civill Government, as it hath been, and we hope ſhall be, untill ſuch, as would alter the ſame, to have their phanſies eſtabliſh<g ref="char:EOLhyphen"/>ed, have given the Parliament greater Demonſtrations of Policy, for Freedome, and Liberty, Mercy, and Ju<g ref="char:EOLhyphen"/>ſtice, then theſe are; more ſuitable they cannot; Conſi<g ref="char:EOLhyphen"/>dered <hi>Jerſey</hi> is inhabited, by Pariſhes, and the houſes are built, not in Townes or Cities, but ſcatteredly, upon the ſeverall Meſſuages and Tenements of Lands; ſo that thoſe Prerogatives of appointing ſome Officers, which Kings had reſerved to themſelves, belonging now to the Parliament: there is no need of change in the Forme of the Civill Government of that Iſland: This I grant, might be deſired, that the right of having a Repreſentor, or two in Parliament, to the end of a ſtronger Union to this Nation, and of a ſpeedier expedition of Neceſſaries, from that Superior Power, unto our people, were for the future allowed to <hi>Jerſey</hi> and <hi>Guernezé,</hi> and that without diminution of their Freedom, Liberties, and Priviledges whatſoever, not repugnant to the ſafe and well-being of the Commonwealth.</p>
+            <p>To conclude, I know I need not mention any other of our Lawes here: For this may be ſufficient to muniſh,
+<pb n="8" facs="tcp:37755:9"/>as by Information, all whom it concerneth, againſt any attempts that may bee, or have beene already made, to alter our freedome. And by this Patterne men may judge of the reſt of the peece of our Lawes; for Im<g ref="char:EOLhyphen"/>moveables, as inheritance; for Moveables, as Chattells; for Prevention, and Pardon, and Puniſhment of Crimes; for Procreation; and Education, for Meaſures; for Aſſo<g ref="char:EOLhyphen"/>ciation, <hi>&amp;c.</hi> they are but few. Nevertheleſſe many cir<g ref="char:EOLhyphen"/>cumſtances, which to deſcribe them fully ſhould be in<g ref="char:EOLhyphen"/>ſerted, would require a greater Volume, then the pati<g ref="char:EOLhyphen"/>ence, or leaſure of moſt men would permit them to take notice of. Therefore I will onely ſay this more, That once every third year, the Bailly accompanied with the Juſtices, the Vicount, the Procuror, and Advocate, the Conſtable and other the above-named Pariſh-Officers, doth view all the Common wayes of each pariſh, and where he findeth cauſe, doth fine the owners of Hedges, Trees, Walls, <hi>&amp;c.</hi> Incombering the Way; or elſe the Sermentez for the Waves.</p>
+            <p>Moreover all the Officers of this Government are to continue <hi>quàm d ùſe bené veſſerint,</hi> as long as they do be<g ref="char:EOLhyphen"/>have themſelves well; and none of them longer, for as ſoon as any one of them, is convicted of any Crime, as for example, Bribe or the like, he is outed ſhamefully: our States having made bold many times to ſuſpend the Bail<g ref="char:EOLhyphen"/>lyes themſelves upon like occaſion, and to chuſe a Judge Delegate in his place, notwithſtanding his Pattent under the Great Seale.</p>
+            <p>Finally, There is ſuch good Order in the adminiſtra<g ref="char:EOLhyphen"/>tion of Juſtice, That when any one hath a Cauſe in Law, againſt any one of the Juſtices, that ſame Juſtice muſt come downe, and ſtand with his Peers, and party Accu<g ref="char:EOLhyphen"/>ſant, at the Barre amongſt the people, ſo muſt the Bailly himſelf, in like occaſion: Which hath therefore a Judge, choſen, appointed and ſworn by the Bench, to be imparti<g ref="char:EOLhyphen"/>all, in the Baillies cauſes. The people have alwayes choſen the Juſtices and Conſtables from amongſt the beſt
+<pb n="9" facs="tcp:37755:9"/>ſort, and known honeſteſt Gentlemen, and reſpected them as their Fathers and Princes, honour being their rewards; except that the Juſtices when they ſigne any Deeds, are to have two ſouces, or two pences for their paine, if they will take them; the other Officers, they reſpect alſo very much, and uſe to chuſe them from the beſt, and honeſteſt ſort of the Yeomanry. The Lord of righteouſnes be pleaſ<g ref="char:EOLhyphen"/>ed to lead us all into it; according to theſe two Teſts and Touch-ſtones of the equity or righteouſneſſe of all Laws, <hi>Thou ſhalt love the Lord thy God, with all thy heart, with all thy ſoule, and with all thy underſtanding, and with all thy might, and thy Neighbour at thy ſelfe.</hi> That is, doing nothing unto him, but what in the like cauſe, thy conſcience, thy in<g ref="char:EOLhyphen"/>ward knower and knowledge within thee, granteth ab<g ref="char:EOLhyphen"/>ſolutely, thou wouldeſt have done to thy ſelfe. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37755:10"/>
+            <pb facs="tcp:37755:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
